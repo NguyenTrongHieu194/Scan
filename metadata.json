@@ -1,0 +1,6 @@
+{
+  "name": "OCR Document Scanner & PDF Creator",
+  "description": "Quét OCR nội dung văn bản từ nhiều hình ảnh, chỉnh sửa nội dung, định dạng tài liệu, và xuất thành file PDF chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
